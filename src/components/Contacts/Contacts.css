@@ -1,0 +1,96 @@
+.contact-wrapper {
+
+    width: 80%;
+    margin-left: 5%;
+    margin-left: 5%;
+
+    padding: 4%;
+    box-shadow: 0.4px 1px 1px 1px;
+    color: #ffffff;
+}
+.search-form{
+    margin-left: 4%;
+}
+
+.search-form input {
+    width: 50%;
+
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.contact-list-element {
+    width: 50%;
+    text-decoration: none;
+    list-style: none;
+}
+.contacts-list-element{
+    background: aliceblue;
+    color: black;
+    margin-top: 5%;
+    border-radius: 5px;
+    padding: 5%;
+}
+.actions button{
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    border: 0.5px solid #000;
+    text-decoration: none;
+    width: 20%;
+    height: 35px;
+    margin: 1px;
+}
+.actions button:hover{
+    background: #97a6b0;
+    background-image: -webkit-linear-gradient(top, #97a6b0, #0a42b0);
+    background-image: -moz-linear-gradient(top, #97a6b0, #0a42b0);
+    background-image: -ms-linear-gradient(top, #97a6b0, #0a42b0);
+    background-image: -o-linear-gradient(top, #97a6b0, #0a42b0);
+    background-image: linear-gradient(to bottom, #97a6b0, #0a42b0);
+    text-decoration: none;
+}
+.adding-wrapper button{
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 3%;
+    border: 0.5px solid #000;
+    text-decoration: none;
+    width: 20%;
+    height: 35px;
+
+}
+
+.add-input-wrapper{
+    width: 60%;
+    margin: 1%;
+    margin-left: 5%;
+}
+.add-input-wrapper input{
+    width: 30%;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+}
+
+

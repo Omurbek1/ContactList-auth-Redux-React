@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+.site-name {
+    color: #ffffff;
+}
+
+.login-wrapper {
+    padding: 3%;
+    margin-top: 8%;
+    width: 20%;
+    height: 400px;
+    margin-left: 35%;
+    color: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+}
+.login-wrapper  button{
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    border-radius: 30px;
+    color: #ffffff;
+    font-size: 15px;
+   text-align: center;
+    border: 0.5px solid #000;
+    text-decoration: none;
+    width: 49%;
+    height: 35px;
+    margin: 1px;
+}
+.input-wrapper button:hover{
+    background: #97a6b0;
+    background-image: -webkit-linear-gradient(top, #97a6b0, #0a42b0);
+    background-image: -moz-linear-gradient(top, #97a6b0, #0a42b0);
+    background-image: -ms-linear-gradient(top, #97a6b0, #0a42b0);
+    background-image: -o-linear-gradient(top, #97a6b0, #0a42b0);
+    background-image: linear-gradient(to bottom, #97a6b0, #0a42b0);
+    text-decoration: none;
+}
+.login-form{
+    box-shadow: 1px 1px 1px 1px;
+  margin-top: 16%;
+    align-items: center;
+    height: 300px;
+    align-items: center;
+    width: 100%;
+
+    margin-bottom: 8%;
+}
+.fom-action button{
+    margin-top: 6%;
+    margin-bottom: 8%;
+    width: 70%;
+    margin-left: 15%;
+
+
+}
+.input-wrapper{
+    margin-left: 9%;
+padding-top: 6%;
+}
+.input-wrapper input{
+    width: 80%;
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: red;
+    border: none;
+
+    overflow: hidden;
+}
+
+

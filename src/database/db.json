@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "alex",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "login": "oma",
+      "password": "1234"
+
+    }
+  ],
+  "users_contacts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "contacts": [
+        {
+          "name": "oma",
+          "phone": "123",
+          "id": 1649439503492
+        },
+        {
+          "name": "Tima",
+          "phone": "123452",
+          "id": 1649439510995
+        },
+        {
+          "name": "hALIK",
+          "phone": "123",
+          "id": 1649439503492
+        },
+        {
+          "name": "Manas",
+          "phone": "123452",
+          "id": 1649439510995
+        }
+      ]
+    },
+    {
+      "userId": 2,
+      "contacts": [
+        {
+          "name": "oma",
+          "phone": "123",
+          "id": 1649439503492
+        },
+        {
+          "name": "Tima",
+          "phone": "123452",
+          "id": 1649439510995
+        }
+      ],
+      "id": 2
+    }
+    ]
+}
